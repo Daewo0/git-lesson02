@@ -30,7 +30,7 @@
 [Ссылка на сайт почты](http://mail.ru/)
 
 ### Code block
-
+блок кода описание
 ```
 white (index<size) do
 
