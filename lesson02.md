@@ -1,7 +1,7 @@
 # Strange Gestures
 
 ## Menu 
-
+описание меню
 1. [Potion](#potions)       
 2. [Chips](#chips)
 3. [Code Block](#code-block)
